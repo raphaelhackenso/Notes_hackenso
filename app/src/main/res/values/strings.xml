@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="login_title">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="failed_call">The call failed</string>
+    <string name="validate_login_fail">The username or password must not be empty!</string>
+    <string name="login_false_pw_or_user">The username or password is incorrect!</string>
+    <string name="API_CALL">API_CALL</string>
+    <string name="KEY_FOR_USER_TOKEN">MY_KEY_FOR_USER_TOKEN</string>
+    <string name="KEY_FOR_USER_LASTSYNC">MY_KEY_FOR_USER_LASTSYNC</string>
+    <string name="logout">LOGOUT</string>
+    <string name="new_note">NEW</string>
+    <string name="save">SAVE</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="no_input">At least one of the fields needs to have text in it</string>
+    <string name="no_upload">The app was unable to upload the note to the API. Please check your internet connection and try again.</string>
+    <string name="no_update">The app was unable to load notes from the API. Please check your internet connection and try again.</string>
+    <string name="NEW_NOTE">NEW_NOTE</string>
+    <string name="sync">SYNC</string>
+    <string name="SUCCESS_SYNC">SUCCESS_SYNC</string>
+    <string name="ERROR_SYNC">ERROR_SYNC</string>
+</resources>

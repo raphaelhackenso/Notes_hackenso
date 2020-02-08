@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="login_title">Einloggen</string>
+    <string name="username">Benutzername</string>
+    <string name="password">Passwort</string>
+    <string name="failed_call">Der Aufruf ist fehlgeschalgen</string>
+    <string name="validate_login_fail">Der Benutzername oder das Passwort darf nicht leer sein!</string>
+    <string name="login_false_pw_or_user">Der Benutzername oder das Passwort ist falsch!</string>
+    <string name="API_CALL">API_CALL</string>
+    <string name="KEY_FOR_USER_TOKEN">MY_KEY_FOR_USER_TOKEN</string>
+    <string name="KEY_FOR_USER_LASTSYNC">MY_KEY_FOR_USER_LASTSYNC</string>
+    <string name="logout">AUSLOGGEN</string>
+    <string name="new_note">NEU</string>
+    <string name="save">SPEICHERN</string>
+    <string name="title">Titel</string>
+    <string name="content">Inhalt</string>
+    <string name="no_input">Mindestens eines der Felder muss Text enthalten</string>
+    <string name="no_upload">Die App konnte die Notiz nicht in die API hochladen. Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.</string>
+    <string name="no_update">Die App konnte keine Notizen von der API laden. Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.</string>
+    <string name="NEW_NOTE">NEW_NOTE</string>
+    <string name="sync">SYNC</string>
+    <string name="SUCCESS_SYNC">SUCCESS_SYNC</string>
+    <string name="ERROR_SYNC">ERROR_SYNC</string>
+</resources>
